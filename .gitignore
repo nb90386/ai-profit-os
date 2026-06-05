@@ -39,3 +39,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Local Claude/Owl/RuFlo files
+.claude/
+.claude-flow/logs/
+.claude-flow/cache/
+
+# Local Claude/Owl/RuFlo agent state
+.claude/
+.claude-flow/
