@@ -1,0 +1,9 @@
+allowBuilds:
+  '@sentry/cli': true
+  core-js: true
+  msw: true
+  sharp: true
+  unrs-resolver: true
+ignoredBuiltDependencies:
+  - sharp
+  - unrs-resolver
