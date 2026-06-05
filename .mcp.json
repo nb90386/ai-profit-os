@@ -17,6 +17,9 @@
         "CLAUDE_FLOW_MEMORY_BACKEND": "hybrid"
       },
       "autoStart": false
+    },
+    "Sentry": {
+      "url": "https://mcp.sentry.dev/mcp/betterdesk/javascript-nextjs"
     }
   }
 }
