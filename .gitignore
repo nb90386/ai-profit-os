@@ -53,4 +53,4 @@ next-env.d.ts
 .env.sentry-build-plugin
 ops/n8n/.env
 
-.trigger
+.trigger.env.local
